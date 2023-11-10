@@ -8,9 +8,9 @@
 ## 📝 About me
 
 - 2013-2018 순천향대학교 3학년 2학기 중퇴 [학점 3.73]
-- 2019-2022 리그오브레전드 2부리그 승강전 참가(코치)
-- 2022-2023 산청군 작은영화관 선임
-- 2023~     방송통신대학교 컴퓨터과학과 3학년 편입 [학점 4.2]
+- 2019-2021 리그오브레전드 2부리그 승강전 참가(코치)
+- 2021-2022 산청군 작은영화관 선임
+- 2023-     방송통신대학교 컴퓨터과학과 3학년 편입 [학점 4.2]
 </div>
 
 <div>
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/windows-0078D4?style=flat&logo=windows&logoColor=white" alt="windows">
 
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="eclipseide">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="intellijidea">
 
 </div>
 
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql">
 
 </div>
 
@@ -61,27 +59,39 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="github">  
 
 </div>
+
+ ## proceeding project
+- 2023.11.01-2023.11.11 주제선정 (국내 음원사이트와 유튜브 뮤직 플레이리스트 연계 사이트)
+- 2023.11.11-           설계 세부논의 시작.
 </div>
 
-<!-- ## 📖 Studying
+ ## 📖 Studying
 
 <div>
-  <img src="https://img.shields.io/badge/:badgeContent?logo=Data%20Structure&logoColor=blue" alt="Data Structure">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="springboot">
-
+  <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-blue" alt="Data Structure">
+  <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-blue" alt="Data Structure">
+  <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-UNIX%EC%8B%9C%EC%8A%A4%ED%85%9C-blue" alt="Data Structure">
+  <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-JSP%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-blue" alt="Data Structure">
+  <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%20%EA%B0%9C%EB%A1%A0-blue" alt="Data Structure">
+  <br>
+  <img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-blue" alt="Data Structure">
 </div>
--->
+<br>
+
+ ## 📖 Completed courses
+ <div>
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-blue" alt="Data Structure">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-blue" alt="Data Structure">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-blue" alt="Data Structure">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C-blue" alt="Data Structure">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-JAVA%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-blue" alt="Data Structure">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4-blue" alt="Data Structure">
+ </div>
+ 
+
+
 <br>
 
 <div>
 <img align='right' src="https://github-readme-stats-psi-self.vercel.app/api?username=BaekUiHeon&show_icons=true&theme=tokyonight&count_private=true" height="160">
-
-
-## 🤩 What I Like
-
-- 🥁 Guitar
-- 🎧 Music   
-- ⚽ Sports
-- 🛫 Travel
-- 🚗 Car   
 </div>
