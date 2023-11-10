@@ -7,16 +7,19 @@
 
 ## 📝 About me
 
-- 2013~2018 순천향대학교 3학년 2학기 중퇴 [학점 3.73]
-- 2019~2021 리그오브레전드 2부리그 승강전 참가(코치)
-- 2021~2022 산청군 작은영화관 선임
-- 2023~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    방송통신대학교 컴퓨터과학과 3학년 편입 [학점 4.2]
+- 2013.03 ~ 2018.06 &nbsp;&nbsp;순천향대학교 3학년 2학기 중퇴 [학점 3.73]
+- 2018.06 ~ 2018.12&nbsp;&nbsp; 편입 공부중에 진로 변경 
+- 2019.06 ~ 2021.03 &nbsp;&nbsp;리그오브레전드 2부리그 승강전 참가(코치)
+- 2021.05 ~ 2022.05 &nbsp;&nbsp;산청군 작은영화관 선임
+- 2023.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    방송통신대학교 컴퓨터과학과 3학년 편입 [학점 4.2]
+- 2023.05 ~ 2023.10 &nbsp;&nbsp;KH 정보교육원 JAVA 공공데이터 융합 과정
 </div>
 
 <div>
 
 ## 📚 Career
-- 🧑🏻‍💻 2023.05 - 2023.10 KH 정보교육원 JAVA 공공데이터 융합 과정
+프로그래머로써의 첫발을 내딛고 싶습니다! 
+
 </div>
   
 ## 💪 My Skills
@@ -60,10 +63,15 @@
 
 </div>
 
- ## 🏃 proceeding project
+ ## 🏃 proceeding project (팀원 변성욱, 이도현, 백의헌)
 - 2023.11.01~2023.11.11 주제선정 및 사전조사 (국내 음원사이트와 유튜브 뮤직 플레이리스트 연계 사이트 확정)
 - 2023.11.11~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 설계 세부논의 시작.
 </div>
+
+## 🖥️ completed project
+- 2023.08.22~2023.10.31 GajiMartket(당근마켓 클론코딩)
+- 2023.07.30~2023.08.30 개인프로젝트 - 대댓글, 페이징, 좋아요 기능이 포함된 게시판 (수업 6시간, 프로젝트 2시간)
+<br>
 
  ## 📖 Studying
 
@@ -78,7 +86,7 @@
 </div>
 <br>
 
- ## 📖 Completed courses
+ ## 📖 Completed courses 
  <div>
     <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-blue" alt="Data Structure">
     <img src="https://img.shields.io/badge/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-blue" alt="Data Structure">
